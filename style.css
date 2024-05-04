@@ -1,0 +1,47 @@
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  font-family: "Poppins",Poppons-medium;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+
+main {
+  padding: 20px;
+}
+
+
+.greeting, .date-time {
+  text-align: right;
+  font-family: "Poppins",Poppons-medium;
+}
+
+
+.carousel {
+  margin-top: 20px;
+  font-family: "Poppins",Poppons-medium;
+}
+
+
+.card {
+  margin-bottom: 20px;
+  font-family: "Poppins",Poppons-medium;
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-family: "Poppins",Poppons-medium;
+}
